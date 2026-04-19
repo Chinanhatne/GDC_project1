@@ -33,4 +33,9 @@ public class GameManager : MonoBehaviour
     {
         goldText.text = "Gold: " + getGold().ToString();
     }
+    
+    public void Continue()
+    {
+        Time.timeScale = 0f;
+    }
 }

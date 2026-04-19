@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - fish
   layers:
   - Default
   - TransparentFX
@@ -59,8 +60,20 @@ TagManager:
   - name: water
     uniqueID: 142559071
     locked: 0
+  - name: barrel
+    uniqueID: 538029445
+    locked: 0
   - name: player
     uniqueID: 1347005293
+    locked: 0
+  - name: boat
+    uniqueID: 809243961
+    locked: 0
+  - name: hook
+    uniqueID: 145093925
+    locked: 0
+  - name: gun
+    uniqueID: 2487028565
     locked: 0
   m_RenderingLayers:
   - Default

@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "GDC_project1.slnx"
+    "dotnet.defaultSolution": "GDC project1.slnx"
 }
