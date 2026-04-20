@@ -17,6 +17,6 @@ public class fishingChangeScene : MonoBehaviour
 
     public void ChangeToFishingScene()
     {
-        SceneManager.LoadScene("fishing");
+        SceneManager.LoadScene("fishingScene");
     }
 }

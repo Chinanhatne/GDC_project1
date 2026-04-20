@@ -1,0 +1,4 @@
+repository "ClickerFishing/GDC project1@18966841686427@cloud"
+  path "/"
+    br "/main"
+    co "/main"
